@@ -1,0 +1,12 @@
+.App{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Arial; 
+}
+.wrapper-loading-page > div{
+    height: 100%;
+
+}
